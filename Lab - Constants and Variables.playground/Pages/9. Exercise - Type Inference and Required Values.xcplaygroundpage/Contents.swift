@@ -3,7 +3,7 @@
  
  Declare a variable called `name` of type `String`, but do not give it a value. Print `name` to the console. Does the code compile? Remove any code that will not compile.
  */
-
+var x:String
 
 //:  Now assign a value to `name`, and print it to the console.
 
